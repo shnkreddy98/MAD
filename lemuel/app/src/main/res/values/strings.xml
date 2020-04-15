@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMSIT</string>
+    <string name="edit_USN">USN</string>
+    <string name="button_send">Enter</string>
+    <string name="edit_name">Name</string>
+    <string name="subject_code">Subject</string>
+    <string name="internal">CIE</string>
+    <string name="external">SEE</string>
+    <string name="total">Total</string>
+    <string name="grade">grade</string>
+</resources>

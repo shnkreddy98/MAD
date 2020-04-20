@@ -8,17 +8,17 @@
     tools:context=".DisplayMessageActivity">
 
     <TextView
-        android:id="@+id/textView16"
+        android:id="@+id/g3"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:background="@color/tableLight"
         android:layout_marginStart="1dp"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView14"
-        app:layout_constraintStart_toEndOf="@+id/textView14" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/t3"
+        app:layout_constraintStart_toEndOf="@+id/t3" />
 
     <TextView
-        android:id="@+id/textView18"
+        android:id="@+id/sub4"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="16dp"
@@ -26,10 +26,10 @@
         android:background="@color/tableDark"
         android:text="TextView"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView13" />
+        app:layout_constraintTop_toBottomOf="@+id/sub3" />
 
     <TextView
-        android:id="@+id/textView34"
+        android:id="@+id/sub6"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="16dp"
@@ -37,77 +37,77 @@
         android:background="@color/tableDark"
         android:text="TextView"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView30" />
+        app:layout_constraintTop_toBottomOf="@+id/sub5" />
 
     <TextView
-        android:id="@+id/textView35"
+        android:id="@+id/t6"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="1dp"
         android:background="@color/tableDark"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView36"
-        app:layout_constraintStart_toEndOf="@+id/textView36" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/s6"
+        app:layout_constraintStart_toEndOf="@+id/s6" />
 
     <TextView
-        android:id="@+id/textView38"
+        android:id="@+id/g6"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="1dp"
         android:background="@color/tableDark"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView35"
-        app:layout_constraintStart_toEndOf="@+id/textView35" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/t6"
+        app:layout_constraintStart_toEndOf="@+id/t6" />
 
     <TextView
-        android:id="@+id/textView36"
+        android:id="@+id/s6"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="1dp"
         android:background="@color/tableDark"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView37"
-        app:layout_constraintStart_toEndOf="@+id/textView37" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/c6"
+        app:layout_constraintStart_toEndOf="@+id/c6" />
 
     <TextView
-        android:id="@+id/textView37"
+        android:id="@+id/c6"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="1dp"
         android:background="@color/tableDark"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView34"
-        app:layout_constraintStart_toEndOf="@+id/textView34" />
+        app:layout_constraintStart_toEndOf="@+id/sub6"
+        tools:layout_editor_absoluteY="293dp" />
 
     <TextView
-        android:id="@+id/textView24"
+        android:id="@+id/s4"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:background="@color/tableDark"
         android:layout_marginStart="1dp"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView17"
-        app:layout_constraintStart_toEndOf="@+id/textView17" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/c4"
+        app:layout_constraintStart_toEndOf="@+id/c4" />
 
     <TextView
-        android:id="@+id/textView27"
+        android:id="@+id/g4"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:background="@color/tableDark"
         android:layout_marginStart="1dp"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView25"
-        app:layout_constraintStart_toEndOf="@+id/textView25" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/t4"
+        app:layout_constraintStart_toEndOf="@+id/t4" />
 
     <TextView
-        android:id="@+id/textView26"
+        android:id="@+id/c3"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:background="@color/tableLight"
         android:layout_marginStart="1dp"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView13"
-        app:layout_constraintStart_toEndOf="@+id/textView13" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/sub3"
+        app:layout_constraintStart_toEndOf="@+id/sub3" />
 
     <TextView
         android:id="@+id/textView6"
@@ -193,37 +193,37 @@
         app:layout_constraintStart_toEndOf="@+id/textView11" />
 
     <TextView
-        android:id="@+id/textView19"
+        android:id="@+id/g1"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:background="@color/tableLight"
         android:layout_marginStart="1dp"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView22"
-        app:layout_constraintStart_toEndOf="@+id/textView22" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/t1"
+        app:layout_constraintStart_toEndOf="@+id/t1" />
 
     <TextView
-        android:id="@+id/textView20"
+        android:id="@+id/s1"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:background="@color/tableLight"
         android:layout_marginStart="1dp"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView21"
-        app:layout_constraintStart_toEndOf="@+id/textView21" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/c1"
+        app:layout_constraintStart_toEndOf="@+id/c1" />
 
     <TextView
-        android:id="@+id/textView22"
+        android:id="@+id/t1"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:background="@color/tableLight"
         android:layout_marginStart="1dp"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView20"
-        app:layout_constraintStart_toEndOf="@+id/textView20" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/s1"
+        app:layout_constraintStart_toEndOf="@+id/s1" />
 
     <TextView
-        android:id="@+id/textView23"
+        android:id="@+id/sub1"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="16dp"
@@ -235,7 +235,7 @@
         tools:ignore="MissingConstraints" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/sub2"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="16dp"
@@ -243,65 +243,65 @@
         android:background="@color/tableDark"
         android:text="TextView"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView23"
+        app:layout_constraintTop_toBottomOf="@+id/sub1"
         tools:ignore="MissingConstraints" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/c2"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="1dp"
         android:background="@color/tableDark"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView"
-        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintBaseline_toBaselineOf="@+id/sub2"
+        app:layout_constraintStart_toEndOf="@+id/sub2"
         tools:ignore="MissingConstraints" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/t2"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="1dp"
         android:background="@color/tableDark"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView4"
-        app:layout_constraintStart_toEndOf="@+id/textView4"
+        app:layout_constraintBaseline_toBaselineOf="@+id/s2"
+        app:layout_constraintStart_toEndOf="@+id/s2"
         tools:ignore="MissingConstraints" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/g2"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="1dp"
         android:background="@color/tableDark"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView3"
-        app:layout_constraintStart_toEndOf="@+id/textView3"
+        app:layout_constraintBaseline_toBaselineOf="@+id/t2"
+        app:layout_constraintStart_toEndOf="@+id/t2"
         tools:ignore="MissingConstraints" />
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/s2"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="1dp"
         android:background="@color/tableDark"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView2"
-        app:layout_constraintStart_toEndOf="@+id/textView2"
+        app:layout_constraintBaseline_toBaselineOf="@+id/c2"
+        app:layout_constraintStart_toEndOf="@+id/c2"
         tools:ignore="MissingConstraints" />
 
     <TextView
-        android:id="@+id/textView21"
+        android:id="@+id/c1"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:background="@color/tableLight"
         android:layout_marginStart="1dp"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView23"
-        app:layout_constraintStart_toEndOf="@+id/textView23" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/sub1"
+        app:layout_constraintStart_toEndOf="@+id/sub1" />
 
     <TextView
-        android:id="@+id/textView13"
+        android:id="@+id/sub3"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:background="@color/tableLight"
@@ -309,50 +309,50 @@
         android:layout_marginTop="2dp"
         android:text="TextView"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        app:layout_constraintTop_toBottomOf="@+id/sub2" />
 
     <TextView
-        android:id="@+id/textView29"
+        android:id="@+id/s5"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="1dp"
         android:background="@color/tableLight"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView33"
-        app:layout_constraintStart_toEndOf="@+id/textView33" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/c5"
+        app:layout_constraintStart_toEndOf="@+id/c5" />
 
     <TextView
-        android:id="@+id/textView32"
+        android:id="@+id/g5"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="1dp"
         android:background="@color/tableLight"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView31"
-        app:layout_constraintStart_toEndOf="@+id/textView31" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/t5"
+        app:layout_constraintStart_toEndOf="@+id/t5" />
 
     <TextView
-        android:id="@+id/textView33"
+        android:id="@+id/c5"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="1dp"
         android:background="@color/tableLight"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView30"
-        app:layout_constraintStart_toEndOf="@+id/textView30" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/sub5"
+        app:layout_constraintStart_toEndOf="@+id/sub5" />
 
     <TextView
-        android:id="@+id/textView31"
+        android:id="@+id/t5"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="1dp"
         android:background="@color/tableLight"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView29"
-        app:layout_constraintStart_toEndOf="@+id/textView29" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/s5"
+        app:layout_constraintStart_toEndOf="@+id/s5" />
 
     <TextView
-        android:id="@+id/textView30"
+        android:id="@+id/sub5"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:layout_marginStart="16dp"
@@ -360,46 +360,46 @@
         android:background="@color/tableLight"
         android:text="TextView"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView18" />
+        app:layout_constraintTop_toBottomOf="@+id/sub4" />
 
     <TextView
-        android:id="@+id/textView14"
+        android:id="@+id/t3"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:background="@color/tableLight"
         android:layout_marginStart="1dp"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView15"
-        app:layout_constraintStart_toEndOf="@+id/textView15" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/s3"
+        app:layout_constraintStart_toEndOf="@+id/s3" />
 
     <TextView
-        android:id="@+id/textView17"
+        android:id="@+id/c4"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:background="@color/tableDark"
         android:layout_marginStart="1dp"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView18"
-        app:layout_constraintStart_toEndOf="@+id/textView18" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/sub4"
+        app:layout_constraintStart_toEndOf="@+id/sub4" />
 
     <TextView
-        android:id="@+id/textView25"
+        android:id="@+id/t4"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:background="@color/tableDark"
         android:layout_marginStart="1dp"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView24"
-        app:layout_constraintStart_toEndOf="@+id/textView24" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/s4"
+        app:layout_constraintStart_toEndOf="@+id/s4" />
 
     <TextView
-        android:id="@+id/textView15"
+        android:id="@+id/s3"
         android:layout_width="76dp"
         android:layout_height="28dp"
         android:background="@color/tableLight"
         android:layout_marginStart="1dp"
         android:text="TextView"
-        app:layout_constraintBaseline_toBaselineOf="@+id/textView26"
-        app:layout_constraintStart_toEndOf="@+id/textView26" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/c3"
+        app:layout_constraintStart_toEndOf="@+id/c3" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

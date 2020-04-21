@@ -124,12 +124,12 @@ public class DisplayMessageActivity extends AppCompatActivity {
                     }
                 });
 
-        Log.d("DisplayMessageActivity", name + usn);
-        textname.setText(name);
-        textusn.setText(usn);
-        List<Map<String , Object>> subjects;
-        //subjects =sample.getSubjects();
-        String code;
+//        Log.d("DisplayMessageActivity", name + usn);
+//        textname.setText(name);
+//        textusn.setText(usn);
+//        List<Map<String , Object>> subjects;
+//        //subjects =sample.getSubjects();
+//        String code;
 
     }
 
